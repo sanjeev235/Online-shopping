@@ -47,13 +47,11 @@
 							<span class="sr-only">(current)</span>
 					</a></li>
 					<li class="nav-item">
-					<li id="about">
-					<a class="nav-link" href="${contextRoot}/about">About</a></li>
-					<li class="nav-item">
 					
-					<li id="list"><a class="nav-link" href="${contextRoot}/listProducts">View Products</a>
+					<a class="nav-link" href="${contextRoot}/about">About</a></li>
+					<li class="nav-item"><a class="nav-link" href="${contextRoot}/listProducts">View Products</a>
 					</li>
-					<li class="nav-item"><li id="contact"><a class="nav-link" href="${contextRoot}/contact">Contact</a>
+					<li class="nav-item"><a class="nav-link" href="${contextRoot}/contact">Contact</a>
 					</li>
 				</ul>
 			</div>
